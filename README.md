@@ -1,1 +1,1 @@
-# Model and simulation for derivatives and risk managemnt 
+# Models and simulations for derivatives and risk management 
